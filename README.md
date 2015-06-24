@@ -1,38 +1,20 @@
-Ticketcoin Information:
+Ticketcoin Version 2.0
 
 RPC Port: 7998
 P2P Port: 7999
 
-Algorithm: X11 POW/POS
+Algorithm: POS
 Ticker: TKT
-Max PoW Coins: ~2,520,000 TKT
-PoS Starts on Block 10000 ~7 days
+Coin Supply at Relaunch: : 35,750,000 (Approx)
 PoS 5% Annual Interest
 
-Development process
+TICKETCOIN - THE RELAUNCH OF VERSION 2
 ===========================
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+Ticketcoin, which operated under the ticker TKT was originally launched as a POW coin with unique lotto-mining features which allowed miners to decide whether to straight mine the coin; or mine on a lotto system where the odds of finding a "winning" block was much lower (roughly 1 in 50) however the payout yielded a 100x payout on the found block. 
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
+This feature; which had never before been implemented; garnered decent attention among altcoin enthusiasts and miners alike. 
 
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of Ticketcoin.
+On June 20th, the final node went offline. 
 
-Feature branches are created when there are major new features being
-worked on by several people.
 
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
